@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+.de{
+    width: 860px;
+    height: 141px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+}
+.adr{
+    width: 173px;
+    height: 110px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+}
+footer{
+    background: #C4C4C4;
+}
